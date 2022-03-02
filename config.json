@@ -1,15 +1,15 @@
 {
-	"Token": "token",
+	"Token": "OTQ3NzY1ODQyMzU0MDA0MDM5.Yh4aeg.1G3FuUwGmexMQ8kBaDdwkGXemEA",
 	"Prefix": ">",
 
-	"Channel-Names": ["discord.gg/83"], 
-	"Server-Names": ["discord.gg/83"],
-	"Role-Names": ["fucked"],
+	"Channel-Names": ["discord.gg/rntop"], 
+	"Server-Names": ["discord.gg/rntop"],
+	"Role-Names": ["discord.gg/rntop"],
 	"Reason": ["sex", "yum2goated"],
 
 	"Spam": true,
 
-	"Webhook-Names": ["YUM WAS HERE", "YUM FUCKS YOU"],
-	"Spam-Messages": ["@everyone yum was here discord.gg/83", "@everyone YUM  FUCK YOU https://discord.gg/83"],
+	"Webhook-Names": ["https://discord.gg/rntop @everyone ", " fuckd byNearRyy @everyone"],
+	"Spam-Messages": ["@everyone ", "@everyone "],
 	"Spam-Amount": 10000
 }
