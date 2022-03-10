@@ -386,9 +386,9 @@ async def menu():
             for id in ids:
                 mainMembers3.append(id)
 
-        members_111 = []
-        members_222 = []
-        members_333 = []
+        members = []
+        members = []
+        members = []
         total = len(mainMembers3)
         members_per_arrary = round(total/3)
         
@@ -405,10 +405,10 @@ async def menu():
                         pass
         while True:
             try:
-                Thread(target=Seraph.Ban, args=(guild.id, members_111[num3],)).start()
-                Thread(target=Seraph.Ban, args=(guild.id, members_222[num3],)).start()
-                Thread(target=Seraph.Ban, args=(guild.id, members_333[num3],)).start()
-                num3 += 1
+                Thread(target=Seraph.Ban, args=(guild.id, members,)).start()
+                Thread(target=Seraph.Ban, args=(guild.id, members,)).start()
+                Thread(target=Seraph.Ban, args=(guild.id, members],)).start()
+            
             except IndexError:
                 break
             except:
